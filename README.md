@@ -28,7 +28,7 @@ Column Name	           |         Description
 - Pandas - Data manipulation
 - power bi - Visualizations
 - Jupyter Notebook - Analysis environment
-## Insights and Recommandation
+## Insights and Recommendation
 - Profit does not increase proportionally with order volume, indicating possible high discounts or lower profit  margins.
     Optimize product discounts to ensure profit grows along with order volume.
 
